@@ -1,0 +1,46 @@
+{
+    "start_url": "https://dzen.ru/",
+    "pages_visited": 10,
+    "top_words": [
+        {
+            "word": "россии",
+            "count": 102
+        },
+        {
+            "word": "перейти",
+            "count": 73
+        },
+        {
+            "word": "области",
+            "count": 64
+        },
+        {
+            "word": "году",
+            "count": 54
+        },
+        {
+            "word": "неделю",
+            "count": 46
+        },
+        {
+            "word": "время",
+            "count": 44
+        },
+        {
+            "word": "почему",
+            "count": 44
+        },
+        {
+            "word": "рублей",
+            "count": 37
+        },
+        {
+            "word": "сша",
+            "count": 36
+        },
+        {
+            "word": "риа",
+            "count": 33
+        }
+    ]
+}
